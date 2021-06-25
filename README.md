@@ -1,6 +1,6 @@
 ## Hi, I'm kytøaq, a little adventurer in the world of development.👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kytoaq)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kytoaq&hide=stars&show_icons=true&count_private=true)
 
 
 <!--
